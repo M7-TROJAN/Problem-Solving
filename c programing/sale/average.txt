@@ -1,0 +1,3 @@
+regular price 12450.00 , sale value 15
+
+the price after discount is: 10582.50
