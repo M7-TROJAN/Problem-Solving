@@ -1,0 +1,10 @@
+https://www.tutorialsteacher.com/python/python-builtin-modules
+
+https://www.geeksforgeeks.org/python-sys-module/
+
+
+
+
+
+
+https://www.tutorialsteacher.com/python/sys-module
