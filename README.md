@@ -26,7 +26,6 @@ By following these steps, you'll gain the confidence and expertise to explore ne
 
 Here are some valuable resources where you can find problems to challenge and improve your skills:
 
-- [Programming Advices](https://programmingadvices.com/)
 - [Brilliant](https://brilliant.org)
 - [Exercism](https://exercism.io)
 - [HackerRank](https://www.hackerrank.com/)
