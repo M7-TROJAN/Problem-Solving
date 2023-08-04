@@ -1,0 +1,129 @@
+
+#include <iostream>
+using namespace std;
+
+struct stDate
+{
+    short day = 0;
+    short month = 0;
+    short year = 0;
+};
+
+stDate readDate()
+{
+    stDate date;
+    // Get the input from the user
+    std::cout << "Please enter a Day: ";
+    std::cin >> date.day;
+    std::cout << "Please enter a Month: ";
+    std::cin >> date.month;
+    std::cout << "Please enter a Year: ";
+    std::cin >> date.year;
+
+    return date;
+    // Note: You must verify that the user's input is correct.
+    // For example, ensure the user does not enter a day less than 1 or greater than 31,
+    // and that the user does not enter a month less than 1 or greater than 12.
+}
+
+// Checks if a year is a leap year
+bool isLeapYear(const short &year)
+{
+    // A year is a leap year if it is divisible by 4 AND not divisible by 100 OR if it is divisible by 400.
+    return (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
+}
+
+short NumberOfDaysInAYear(short Year) 
+{ 
+    return isLeapYear(Year) ? 366 : 365; 
+}
+
+bool IsDate1BeforeDate2(const stDate &date1, const stDate &date2)
+{
+    if (date1.year < date2.year)
+        return true;
+    if (date1.year > date2.year)
+        return false;
+
+    if (date1.month < date2.month)
+        return true;
+    if (date1.month > date2.month)
+        return false;
+
+    if (date1.day < date2.day)
+        return true;
+
+    return false;
+}
+
+// Retrieves the number of days in a given month of a year
+short getNumberOfDaysInAMonth(const short& month, const short& year)
+{
+    const short NumberOfDays[12] = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
+
+    if (month < 1 || month > 12)
+        return 0;
+
+    if (month == 2 && isLeapYear(year))
+        return 29;
+    else
+        return NumberOfDays[month - 1];
+}
+
+// Calculates the number of days from the beginning of the year until the specified date
+short getNumberOfDaysFromTheBeginningOfYear(stDate date)
+{
+    short totalDays = date.day;
+    for (int i = 1; i < date.month; i++)
+    {
+        totalDays += getNumberOfDaysInAMonth(i, date.year);
+    }
+    return totalDays;
+}
+
+// Function to calculate the difference in days between two dates
+int differenceBetween2Dates(stDate date1, stDate date2, bool includeEndDay = false)
+{
+    int differenceInDays = 0;
+    
+    // Check if date1 is before date2
+    if (IsDate1BeforeDate2(date1, date2))
+    {
+        // Check if date1 and date2 have the same year
+        if (date1.year == date2.year)
+        {
+            differenceInDays = getNumberOfDaysFromTheBeginningOfYear(date2) - getNumberOfDaysFromTheBeginningOfYear(date1);
+        }
+
+        else
+        {
+            // Calculate the remaining days in year2 by subtracting the days passed from the beginning of year2
+            int remainingDaysInYear2 = NumberOfDaysInAYear(date2.year) - getNumberOfDaysFromTheBeginningOfYear(date2);
+
+            // Calculate the difference in days by iterating over each year between date1 and date2
+            for (short year = date1.year; year <= date2.year; year++)
+            {
+                differenceInDays += NumberOfDaysInAYear(year);
+            }
+
+            // Subtract the remaining days in year2 and the days from the beginning of date1's year
+            differenceInDays -= remainingDaysInYear2 + getNumberOfDaysFromTheBeginningOfYear(date1);
+        }
+        
+    }
+    return includeEndDay ? ++differenceInDays : differenceInDays;
+}
+
+
+int main()
+{
+    stDate date1 = readDate();
+    cout << endl;
+    stDate date2 = readDate();
+
+    cout << "\nDifference is: " << differenceBetween2Dates(date1, date2) << " Day(s).";
+    cout << "\nDifference (Including End Day) is: " << differenceBetween2Dates(date1, date2, true) << " Day(s).";
+
+    system("pause > nul");
+    return 0;
+}
