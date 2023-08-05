@@ -9,6 +9,7 @@ Welcome to the **ProblemSolving** repository! Here, I've documented my journey o
 2. **Distinguish Programming from Programming Languages**: Understand that programming involves logic, analysis, and problem-solving. Programming languages are tools to apply your logic and thinking. Master programming itself, as languages can be learned quickly once you possess strong programming fundamentals.
 
 3. **Begin with Fundamental Languages**: Avoid modern programming languages initially. They often provide ready-made functions and tools that hinder your logical growth. Just like students learn math concepts before relying on calculators.
+
 again Never start with a modern programming language why? Modern programming languages have a lot of ready-made functions, methods,
 and tools that will deceive you and prevent you from learning logic and programming the right way…
    For example: 
