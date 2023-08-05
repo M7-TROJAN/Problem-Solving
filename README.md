@@ -10,14 +10,14 @@ Welcome to the **ProblemSolving** repository! Here, I've documented my journey o
 
 3. **Begin with Fundamental Languages**: Avoid modern programming languages initially. They often provide ready-made functions and tools that hinder your logical growth. Just like students learn math concepts before relying on calculators.
 
-again Never start with a modern programming language why? Modern programming languages have a lot of ready-made functions, methods,
-and tools that will deceive you and prevent you from learning logic and programming the right way…
-   For example: 
-   students from grade 1 to 6 in schools they study math (addition, subtraction, multiplications, dividing, fractions…etc) why they study this while we have 
-   a calculator??
-   They study this to strengthen their logic and thinking, imagine you give them a calculator from grade 1 , they will never strengthen their logic.
-   Modern programming languages are good and you have to learn them but you need to learn them in the right time after you strengthen your logic/thinking, 
-   exactly like the calculator you can use it but in the right time.
+   again Never start with a modern programming language why? Modern programming languages have a lot of ready-made functions, methods,
+   and tools that will deceive you and prevent you from learning logic and programming the right way…
+      For example: 
+      students from grade 1 to 6 in schools they study math (addition, subtraction, multiplications, dividing, fractions…etc) why they study this while we have 
+      a calculator??
+      They study this to strengthen their logic and thinking, imagine you give them a calculator from grade 1 , they will never strengthen their logic.
+      Modern programming languages are good and you have to learn them but you need to learn them in the right time after you strengthen your logic/thinking, 
+      exactly like the calculator you can use it but in the right time.
 
 5. **Focus on Fundamentals First**:
    - Learn the chosen programming language's fundamentals.
