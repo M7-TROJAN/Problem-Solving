@@ -8,14 +8,22 @@ Welcome to the **ProblemSolving** repository! Here, I've documented my journey o
 
 2. **Distinguish Programming from Programming Languages**: Understand that programming involves logic, analysis, and problem-solving. Programming languages are tools to apply your logic and thinking. Master programming itself, as languages can be learned quickly once you possess strong programming fundamentals.
 
-3. **Begin with Fundamental Languages**: Avoid modern programming languages initially. They often provide ready-made functions and tools that hinder your logical growth. Just like students learn math concepts before relying on calculators, start with languages like C++, Java, or Python to build your programming foundation.
+3. **Begin with Fundamental Languages**: Avoid modern programming languages initially. They often provide ready-made functions and tools that hinder your logical growth. Just like students learn math concepts before relying on calculators.
+again Never start with a modern programming language why? Modern programming languages have a lot of ready-made functions, methods,
+and tools that will deceive you and prevent you from learning logic and programming the right way…
+   For example: 
+   students from grade 1 to 6 in schools they study math (addition, subtraction, multiplications, dividing, fractions…etc) why they study this while we have 
+   a calculator??
+   They study this to strengthen their logic and thinking, imagine you give them a calculator from grade 1 , they will never strengthen their logic.
+   Modern programming languages are good and you have to learn them but you need to learn them in the right time after you strengthen your logic/thinking, 
+   exactly like the calculator you can use it but in the right time.
 
-4. **Focus on Fundamentals First**:
+5. **Focus on Fundamentals First**:
    - Learn the chosen programming language's fundamentals.
    - Solve a minimum of 2000 problems to refine your skills and logic.
    - Delay diving into other topics until you've solved around 500 to 700 problems. This phase will solidify your understanding.
 
-5. **Expand Your Knowledge**:
+6. **Expand Your Knowledge**:
    - After solving a substantial number of problems (around 2000), spend a month learning a modern programming language.
    - Dedicate 1 to 3 weeks to grasp the basics of Databases.
    - Undertake your first project; consider starting with a desktop application like University Registration. Begin with a simple version and gradually enhance its functionality.
