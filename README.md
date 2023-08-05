@@ -6,7 +6,7 @@ Welcome to the **ProblemSolving** repository! Here, I've documented my journey o
 
 1. **Surround Yourself with Positivity**: Steer clear of negative influences. Avoid those who discourage you with statements like "it's too hard," "it has no future," or "you won't find jobs." Seek guidance from successful individuals who've made a mark in the field.
 
-2. **Distinguish Programming from Programming Languages**: Understand that programming involves logic, analysis, and problem-solving. Programming languages are tools to apply your logic and thinking. Master programming itself, as languages can be learned quickly once you possess strong programming fundamentals.
+2. **Distinguish Programming from Programming Languages**: Understand that programming involves logic, analysis, and problem-solving. Programming languages are tools to apply your logic and thinking. Master programming itself, as languages can be learned quickly once you possess strong programming fundamentals so Learn programming and never waste your time learning programming languages, because if you are good in programming you can learn any programming language in less than a month’s time..
 
 3. **Begin with Fundamental Languages**: Avoid modern programming languages initially. They often provide ready-made functions and tools that hinder your logical growth. Just like students learn math concepts before relying on calculators.
 
