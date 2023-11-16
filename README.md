@@ -49,8 +49,10 @@ Here are some valuable resources where you can find problems to challenge and im
 
 Wishing you the best in your programming journey! Remember, consistent effort, a positive mindset, and dedication are your allies in becoming a successful programmer.
 
-**Author:**
+## Author
 
 - Mahmoud Mohamed
 - Email: mahmoud.abdalaziz@outlook.com
 - LinkedIn: [Mahmoud Mohamed Abdalaziz](https://www.linkedin.com/in/mahmoud-mohamed-abd/)
+
+Happy learning and coding! 🚀
