@@ -39,12 +39,15 @@ public class Sudoku
         }
         set
         {
-            if (row < 9 && col < 9)
+            // Check if the provided indices are within the valid range
+            // Check if the value being set is between 1 and 9
+            if (row < 9 && col < 9 && value >= 1 && value <= 9)
                 board[row, col] = value;
             else
-                throw new ArgumentOutOfRangeException("Invalid matrix indices.");
+                throw new ArgumentOutOfRangeException("Invalid matrix indices or value.");
         }
     }
+
 
     // Print the Sudoku board
     public void PrintBoard()
