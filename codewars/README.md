@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.codewars.com/users/mattar740">
-    <img src="https://www.codewars.com/users/mattar740/badges/large" alt="CodeWars Profile">
+  <a href="https://www.codewars.com/users/M7-TROJAN">
+    <img src="https://www.codewars.com/users/M7-TROJAN/badges/large" alt="CodeWars Profile">
   </a>
 </p>
 
