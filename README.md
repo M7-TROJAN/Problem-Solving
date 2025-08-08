@@ -1,6 +1,6 @@
 # ProblemSolving
 
-Welcome to the **ProblemSolving** repository! Here, I've documented my journey of solving over +400 problems and multiple projects. This endeavor has not only honed my skills but also expanded my knowledge base and prepared me for technical interviews. If you're wondering how to learn programming the right way and avoid pitfalls, I've summarized my insights below.
+Welcome to the **ProblemSolving** repository! Here, I've documented my journey of solving over +300 problems and multiple projects. This endeavor has not only honed my skills but also expanded my knowledge base and prepared me for technical interviews. If you're wondering how to learn programming the right way and avoid pitfalls, I've summarized my insights below.
 
 ## How to Learn Programming the Right Way
 
