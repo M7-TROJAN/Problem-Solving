@@ -1,0 +1,20 @@
+
+
+                           12-12-2024 | 7:16:45PM
+----------------------------- [Test Results] -------------------------
+Player Name: mahmoud
+total Questions: 10
+correct answers: 9
+wrong answers: 1
+Grade: pass
+----------------------------------------------------------------------
+
+
+                           12-12-2024 | 9:17:55PM
+----------------------------- [Test Results] -------------------------
+Player Name: 10
+total Questions: 10
+correct answers: 9
+wrong answers: 1
+Grade: pass
+----------------------------------------------------------------------

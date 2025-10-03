@@ -1,0 +1,101 @@
+What is the output of: 2 + 2?@@2, 3, 4, 5@@3
+Which data type is used to store true or false?@@int, float, bool, string@@3
+What is the keyword to declare a constant variable in C++?@@var, const, let, define@@2
+What is the correct file extension for C++ files?@@.java, .py, .cpp, .txt@@3
+Which loop is used to iterate over a range of numbers in C++?@@while, do-while, for, repeat@@3
+What is the result of 5 % 2?@@1, 2, 3, 4@@1
+What does return 0; signify in C++?@@Error, Success, Warning, None@@2
+How do you include libraries in C++?@@#include, import, require, load@@1
+What is a class in C++?@@A function, A data structure, A blueprint for objects, None@@3
+Which operator is used for comparison in C++?@@+, =, ==, !=@@3
+Which library is used for input/output operations in C++?@@stdio.h, iostream, math.h, stdlib.h@@2
+What does void mean in a function declaration?@@Returns an integer, Returns a float, Returns nothing, Returns a string@@3
+How do you declare a string variable in C++?@@string x;, char x;, str x;, text x;@@1
+What is the purpose of a constructor in a class?@@Initialize objects, Destroy objects, Allocate memory, None of the above@@1
+What is polymorphism in OOP?@@Multiple inheritance, Ability to take many forms, Encapsulation, Data hiding@@2
+What is the default access specifier in a class?@@private, public, protected, default@@1
+What is the syntax for a single-line comment in C++?@@//, /**, <!--, #@@1
+How do you declare an array in C++?@@int arr;, int arr[10];, arr int[10];, array int arr;@@2
+Which header file is used for mathematical operations in C++?@@math.h, cmath, math, stdio.h@@2
+What does new do in C++?@@Creates an array, Deletes a variable, Allocates memory, Initializes a pointer@@3
+Which keyword is used to free allocated memory in C++?@@free, delete, clear, dispose@@2
+What is encapsulation in OOP?@@Inheritance, Combining data and functions, Multiple inheritance, None@@2
+What is inheritance in OOP?@@Hiding data, Combining functions, Deriving classes, Allocating memory@@3
+How do you define a pointer in C++?@@int x;, int* x;, *int x;, pointer int x;@@2
+What does NULL represent in C++?@@An undefined value, A null pointer, An integer, None@@2
+What is the size of an int in C++ on most systems?@@2 bytes, 4 bytes, 8 bytes, Depends on the compiler@@4
+Which function is used to print output in C++?@@print(), cout, printf, output@@2
+What is the symbol for logical AND in C++?@@&, &&, and, AND@@2
+What is the size of a char in C++?@@1 byte, 2 bytes, 4 bytes, 8 bytes@@1
+Which loop executes at least once, regardless of the condition?@@for, while, do-while, foreach@@3
+What is a destructor in C++?@@A function to initialize objects, A function to destroy objects, A type of loop, None@@2
+What is the range of values for an unsigned int?@@0 to 255, 0 to 65535, 0 to 4294967295, Depends on the system@@3
+What does the this pointer refer to in C++?@@The current object, A new object, A parent class, A child class@@1
+What is the maximum value of a short in C++?@@127, 32767, 65535, 4294967295@@2
+What is the use of #define in C++?@@Define constants, Include libraries, Declare variables, Declare functions@@1
+Which keyword is used to exit a loop?@@exit, stop, break, terminate@@3
+What is a template in C++?@@A function, A class, A blueprint for generic programming, An array@@3
+What is a namespace in C++?@@A memory block, A feature to organize code, A type of class, None@@2
+What does public mean in a class?@@Accessible only within the class, Accessible from outside the class, Accessible only by derived classes, None@@2
+Which function is used to get input in C++?@@input(), cin, get(), read()@@2
+How do you catch exceptions in C++?@@try...catch, catch...try, throw...try, catch...finally@@1
+What does sizeof return?@@The size of the class, The size of a variable, The size of an array, The size of memory@@2
+Which operator is used to access members of a structure?@@., ->, ::, []@@1
+What is the purpose of virtual functions in C++?@@Inheritance, Polymorphism, Encapsulation, Templates@@2
+What is the correct syntax to open a file in C++?@@fstream file("example.txt");, file.open("example.txt");, open file("example.txt");, None@@1
+What is the output of cout << 5 / 2;@@2, 2.5, 3, 5@@1
+Which function is used to generate random numbers in C++?@@rand(), random(), generate(), none@@1
+What is the return type of main() in C++?@@void, int, float, string@@2
+What is the output of cout << true + false;@@0, 1, true, false@@2
+Which header file is needed for file handling?@@fstream, stdio.h, iostream, stdlib.h@@1
+What is the value of the boolean true in C++?@@0, 1, True, False@@2
+What is the base class for all exceptions in C++?@@exception, Error, BaseException, None@@1
+How do you terminate a string in C++?@@., ;, \0, EOF@@3
+What is the purpose of friend in C++?@@Access private members, Access public members, Access protected members, None@@1
+What is the output of: cout << 10 + 5;@@10, 15, 20, 5@@2
+What is the output of: cout << "Hello " << "World!";@@Hello World!, Hello, World!, None@@1
+What is the output of: cout << 2 * 3 + 4;@@6, 10, 14, None@@2
+What is the output of: cout << (10 > 5);@@true, false, 1, 0@@3
+What is the output of: cout << (5 == 5);@@true, false, 1, 0@@3
+What is the output of: cout << 15 / 3;@@3, 5, 15, None@@2
+What is the output of: cout << (10 != 5);@@true, false, 1, 0@@3
+What is the output of: cout << 2 + 3 * 4;@@14, 20, 9, None@@1
+What is the output of: cout << "10" + "20";@@1020, 30, Error, None@@3
+What is the output of: cout << 10 % 3;@@1, 2, 0, 3@@1
+What is the output of: cout << 'A' + 1;@@B, 66, 65, Error@@2
+What is the output of: cout << 'A' - 'B';@@ -1, 0, 1, -2@@4
+What is the output of: cout << 5 && 0;@@true, false, 0, 1@@3
+What is the output of: cout << !true;@@false, true, 0, 1@@1
+What is the output of: cout << 5 && 3;@@1, 15, 3, None@@1
+What is the output of: cout << 5 & 3;@@1, 3, 5, 0@@1
+What is the output of: int x = 5; cout << ++x;@@5, 6, 4, None@@2
+What is the output of: int x = 5; cout << x++;@@5, 6, 4, None@@1
+What is the output of: for(int i = 0; i < 3; i++) cout << i;@@123, 012, 345, None@@2
+What is the output of: cout << 1 + 2 + 3 + 4 + 5;@@10, 12, 15, 20@@3
+What is the output of: cout << sizeof(int);@@2, 4, 8, Depends on system@@4
+What is the output of: cout << (true && false);@@true, false, 1, 0@@2
+What is the output of: cout << (true || false);@@true, false, 1, 0@@3
+What is the output of: cout << (5 > 2) ? "Yes" : "No";@@Yes, No, Error, None@@1
+What is the output of: int a = 3; cout << a * a;@@3, 6, 9, None@@3
+What is the output of: cout << "C" + "++";@@C++, Error, Concatenation not allowed, None@@2
+What is the output of: cout << "5" - "2";@@Error, 3, 5, 2@@1
+What is the output of: cout << 5 << " + " << 2;@@5+2, 5 + 2, Error, None@@2
+What is the output of: int x = 5, y = 10; cout << x + y;@@5, 10, 15, None@@3
+What is the output of: int x = 5; x += 10; cout << x;@@5, 10, 15, None@@3
+What is the output of: int x = 10; cout << x / 2;@@2, 5, 10, None@@2
+What is the output of: int x = 3; cout << x * x * x;@@9, 27, 81, None@@2
+What is the output of: cout << (5 < 2);@@true, false, 0, 1@@3
+What is the output of: cout << "Welcome\nTo\nC++";@@Welcome To C++, WelcomeToC++, Welcome (in multiple lines), None@@3
+What is the output of: cout << (5 >= 5);@@true, false, 1, 0@@3
+What is the output of: int x = 10; cout << x / 3;@@3, 3.33, Error, None@@1
+What is the output of: int x = 5; cout << ~x;?@@5, -5, -6, None@@3
+What is the output of: cout << 'a' + 1;?@@b, 97, 98, None@@3
+What is the output of: cout << 5 > 2 ? "True" : "False";?@@True, False, Error, None@@1
+What is the output of: cout << "Hello"[0];?@@H, e, l, o@@1
+What is the output of: cout << "Hello"[4];?@@H, o, l, Error@@2
+What is the output of: cout << "Hello".length();?@@Error, 5, 4, None@@1
+What is the output of: int arr[] = {1, 2, 3}; cout << arr[1];?@@1, 2, 3, Error@@2
+What is the output of: cout << "10" - '0';?@@10, 1, 0, Error@@4
+What is the output of: int a = 5; a = a * a; cout << a;?@@5, 25, 10, None@@2
+What is the output of: int a = 1; a += 2 * 3; cout << a;?@@7, 5, 6, None@@1
+What is the output of: cout << pow(2, 3);?@@8, 6, 4, Error@@1

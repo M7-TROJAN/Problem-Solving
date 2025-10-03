@@ -1,0 +1,14 @@
+﻿  ProgrammingTest.cpp
+C:\Users\matte\OneDrive\Desktop\Programming fundamentals Test\ver_1_consoleApp\ProgrammingTest\ProgrammingTest\Utilities.h(49,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ProgrammingTest.cpp')
+  
+C:\Users\matte\OneDrive\Desktop\Programming fundamentals Test\ver_1_consoleApp\ProgrammingTest\ProgrammingTest\Utilities.h(95,12): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'ProgrammingTest.cpp')
+  
+C:\Users\matte\OneDrive\Desktop\Programming fundamentals Test\ver_1_consoleApp\ProgrammingTest\ProgrammingTest\QuestionBank.h(70,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ProgrammingTest.cpp')
+  
+C:\Users\matte\OneDrive\Desktop\Programming fundamentals Test\ver_1_consoleApp\ProgrammingTest\ProgrammingTest\Test.h(16,26): warning C4244: 'initializing': conversion from 'float' to 'short', possible loss of data
+  (compiling source file 'ProgrammingTest.cpp')
+  
+  ProgrammingTest.vcxproj -> C:\Users\matte\OneDrive\Desktop\Programming fundamentals Test\ver_1_consoleApp\ProgrammingTest\x64\Debug\ProgrammingTest.exe
