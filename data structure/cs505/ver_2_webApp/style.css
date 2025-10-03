@@ -1,0 +1,166 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+/* General Styling */
+body {
+    background:  #5a8f99;
+    color: #333;
+    font-family: "Poppins", Arial, sans-serif;
+}
+
+.hidden {
+    display: none;
+}
+
+/* Welcome Section Styling */
+#welcome-section {
+    color: #fff;
+}
+
+.card {
+    background: #fff;
+    border-radius: 20px;
+    padding: 25px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+/* Input Field Styling */
+#question-count { 
+    font-size: 1rem;
+    height: 40px;
+    border: 2px solid #ddd;
+    transition: border-color 0.3s ease;
+}
+
+#question-count:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+/* Button Styling */
+button {
+    font-weight: bold;
+    transition: all 0.3s ease;
+    border-radius: 12px;
+}
+
+button:hover {
+    background-color: #0056b3;
+    color: #fff;
+}
+
+/* Question Box Styling */
+.question-box {
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.question-box h2 {
+    font-size: 1.5rem;
+    color: #333;
+}
+
+.question-box button {
+    display: block;
+    width: 100%;
+    margin: 5px 0;
+    padding: 10px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    font-size: 1rem;
+    background-color: #f9f9f9;
+    transition: all 0.3s ease;
+}
+
+.question-box button:hover {
+    background-color: #f1f1f1;
+    color: #333;
+    border-color: #007bff;
+}
+
+.correct-border {
+    border-color: green !important;
+    background-color: #d4edda !important;
+}
+
+.wrong-border {
+    border-color: red !important;
+    background-color: #f8d7da !important;
+}
+
+/* Timer Styling */
+#timer {
+    background-color: #28a745;
+    color: white;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 123, 255, 0.3);
+}
+
+#timer.warning {
+    background-color: #ffc107;
+}
+
+#timer.danger {
+    background-color: #dc3545;
+}
+
+/* Progress Bar Styling */
+.progress {
+    height: 20px;
+    background-color: #f8f9fa;
+}
+
+#progress-bar {
+    background-color: #007bff;
+}
+
+/* Performance Section Styling */
+#performance-section .card {
+    background: #fff;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+#review-list {
+    text-align: left;
+}
+
+#review-list .list-group-item {
+    padding: 15px;
+    border: none;
+    border-bottom: 1px solid #ddd;
+}
+
+.correct-answer {
+    color: green;
+}
+
+.wrong-answer {
+    color: red;
+}
+
+/* Restart Button Styling */
+#restart-btn {
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+}
+
+#restart-btn:hover {
+    background-color: #138496;
+}

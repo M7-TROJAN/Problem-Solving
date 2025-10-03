@@ -1,0 +1,1032 @@
+[
+    {
+        "question": "What is the output of: 2 + 2?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "Which data type is used to store true or false?",
+        "options": [
+            "int",
+            "float",
+            "bool",
+            "string"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "What is the keyword to declare a constant variable in C++?",
+        "options": [
+            "var",
+            "const",
+            "let",
+            "define"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the correct file extension for C++ files?",
+        "options": [
+            ".java",
+            ".py",
+            ".cpp",
+            ".txt"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "Which loop is used to iterate over a range of numbers in C++?",
+        "options": [
+            "while",
+            "do-while",
+            "for",
+            "repeat"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "What is the result of 5 % 2?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What does return 0; signify in C++?",
+        "options": [
+            "Error",
+            "Success",
+            "Warning",
+            "None"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "How do you include libraries in C++?",
+        "options": [
+            "#include",
+            "import",
+            "require",
+            "load"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is a class in C++?",
+        "options": [
+            "A function",
+            "A data structure",
+            "A blueprint for objects",
+            "None"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "Which operator is used for comparison in C++?",
+        "options": [
+            "+",
+            "=",
+            "==",
+            "!="
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "Which library is used for input/output operations in C++?",
+        "options": [
+            "stdio.h",
+            "iostream",
+            "math.h",
+            "stdlib.h"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What does void mean in a function declaration?",
+        "options": [
+            "Returns an integer",
+            "Returns a float",
+            "Returns nothing",
+            "Returns a string"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "How do you declare a string variable in C++?",
+        "options": [
+            "string x;",
+            "char x;",
+            "str x;",
+            "text x;"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the purpose of a constructor in a class?",
+        "options": [
+            "Initialize objects",
+            "Destroy objects",
+            "Allocate memory",
+            "None of the above"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is polymorphism in OOP?",
+        "options": [
+            "Multiple inheritance",
+            "Ability to take many forms",
+            "Encapsulation",
+            "Data hiding"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the default access specifier in a class?",
+        "options": [
+            "private",
+            "public",
+            "protected",
+            "default"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the syntax for a single-line comment in C++?",
+        "options": [
+            "//",
+            "/**",
+            "<!--",
+            "#"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "How do you declare an array in C++?",
+        "options": [
+            "int arr;",
+            "int arr[10];",
+            "arr int[10];",
+            "array int arr;"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "Which header file is used for mathematical operations in C++?",
+        "options": [
+            "math.h",
+            "cmath",
+            "math",
+            "stdio.h"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What does new do in C++?",
+        "options": [
+            "Creates an array",
+            "Deletes a variable",
+            "Allocates memory",
+            "Initializes a pointer"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "Which keyword is used to free allocated memory in C++?",
+        "options": [
+            "free",
+            "delete",
+            "clear",
+            "dispose"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is encapsulation in OOP?",
+        "options": [
+            "Inheritance",
+            "Combining data and functions",
+            "Multiple inheritance",
+            "None"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is inheritance in OOP?",
+        "options": [
+            "Hiding data",
+            "Combining functions",
+            "Deriving classes",
+            "Allocating memory"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "How do you define a pointer in C++?",
+        "options": [
+            "int x;",
+            "int* x;",
+            "*int x;",
+            "pointer int x;"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What does NULL represent in C++?",
+        "options": [
+            "An undefined value",
+            "A null pointer",
+            "An integer",
+            "None"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the size of an int in C++ on most systems?",
+        "options": [
+            "2 bytes",
+            "4 bytes",
+            "8 bytes",
+            "Depends on the compiler"
+        ],
+        "correctOption": 4
+    },
+    {
+        "question": "Which function is used to print output in C++?",
+        "options": [
+            "print()",
+            "cout",
+            "printf",
+            "output"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the symbol for logical AND in C++?",
+        "options": [
+            "&",
+            "&&",
+            "and",
+            "AND"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the size of a char in C++?",
+        "options": [
+            "1 byte",
+            "2 bytes",
+            "4 bytes",
+            "8 bytes"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "Which loop executes at least once, regardless of the condition?",
+        "options": [
+            "for",
+            "while",
+            "do-while",
+            "foreach"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "What is a destructor in C++?",
+        "options": [
+            "A function to initialize objects",
+            "A function to destroy objects",
+            "A type of loop",
+            "None"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the range of values for an unsigned int?",
+        "options": [
+            "0 to 255",
+            "0 to 65535",
+            "0 to 4294967295",
+            "Depends on the system"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "What does the this pointer refer to in C++?",
+        "options": [
+            "The current object",
+            "A new object",
+            "A parent class",
+            "A child class"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the maximum value of a short in C++?",
+        "options": [
+            "127",
+            "32767",
+            "65535",
+            "4294967295"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the use of #define in C++?",
+        "options": [
+            "Define constants",
+            "Include libraries",
+            "Declare variables",
+            "Declare functions"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "Which keyword is used to exit a loop?",
+        "options": [
+            "exit",
+            "stop",
+            "break",
+            "terminate"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "What is a template in C++?",
+        "options": [
+            "A function",
+            "A class",
+            "A blueprint for generic programming",
+            "An array"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "What is a namespace in C++?",
+        "options": [
+            "A memory block",
+            "A feature to organize code",
+            "A type of class",
+            "None"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What does public mean in a class?",
+        "options": [
+            "Accessible only within the class",
+            "Accessible from outside the class",
+            "Accessible only by derived classes",
+            "None"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "Which function is used to get input in C++?",
+        "options": [
+            "input()",
+            "cin",
+            "get()",
+            "read()"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "How do you catch exceptions in C++?",
+        "options": [
+            "try...catch",
+            "catch...try",
+            "throw...try",
+            "catch...finally"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What does sizeof return?",
+        "options": [
+            "The size of the class",
+            "The size of a variable",
+            "The size of an array",
+            "The size of memory"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "Which operator is used to access members of a structure?",
+        "options": [
+            ".",
+            "->",
+            "::",
+            "[]"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the purpose of virtual functions in C++?",
+        "options": [
+            "Inheritance",
+            "Polymorphism",
+            "Encapsulation",
+            "Templates"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the correct syntax to open a file in C++?",
+        "options": [
+            "fstream file(\"example.txt\");",
+            "file.open(\"example.txt\");",
+            "open file(\"example.txt\");",
+            "None"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the output of cout << 5 / 2;",
+        "options": [
+            "2",
+            "2.5",
+            "3",
+            "5"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "Which function is used to generate random numbers in C++?",
+        "options": [
+            "rand()",
+            "random()",
+            "generate()",
+            "none"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the return type of main() in C++?",
+        "options": [
+            "void",
+            "int",
+            "float",
+            "string"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the output of cout << true + false;",
+        "options": [
+            "0",
+            "1",
+            "true",
+            "false"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "Which header file is needed for file handling?",
+        "options": [
+            "fstream",
+            "stdio.h",
+            "iostream",
+            "stdlib.h"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the value of the boolean true in C++?",
+        "options": [
+            "0",
+            "1",
+            "True",
+            "False"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the base class for all exceptions in C++?",
+        "options": [
+            "exception",
+            "Error",
+            "BaseException",
+            "None"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "How do you terminate a string in C++?",
+        "options": [
+            ".",
+            ";",
+            "\\0",
+            "EOF"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "What is the purpose of friend in C++?",
+        "options": [
+            "Access private members",
+            "Access public members",
+            "Access protected members",
+            "None"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the output of: cout << 10 + 5;",
+        "options": [
+            "10",
+            "15",
+            "20",
+            "5"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the output of: cout << \"Hello \" << \"World!\";",
+        "options": [
+            "Hello World!",
+            "Hello",
+            "World!",
+            "None"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the output of: cout << 2 * 3 + 4;",
+        "options": [
+            "6",
+            "10",
+            "14",
+            "None"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the output of: cout << (10 > 5);",
+        "options": [
+            "true",
+            "false",
+            "1",
+            "0"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "What is the output of: cout << (5 == 5);",
+        "options": [
+            "true",
+            "false",
+            "1",
+            "0"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "What is the output of: cout << 15 / 3;",
+        "options": [
+            "3",
+            "5",
+            "15",
+            "None"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the output of: cout << (10 != 5);",
+        "options": [
+            "true",
+            "false",
+            "1",
+            "0"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "What is the output of: cout << 2 + 3 * 4;",
+        "options": [
+            "14",
+            "20",
+            "9",
+            "None"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the output of: cout << \"10\" + \"20\";",
+        "options": [
+            "1020",
+            "30",
+            "Error",
+            "None"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "What is the output of: cout << 10 % 3;",
+        "options": [
+            "1",
+            "2",
+            "0",
+            "3"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the output of: cout << 'A' + 1;",
+        "options": [
+            "B",
+            "66",
+            "65",
+            "Error"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the output of: cout << 'A' - 'B';",
+        "options": [
+            "-1",
+            "0",
+            "1",
+            "-2"
+        ],
+        "correctOption": 4
+    },
+    {
+        "question": "What is the output of: cout << 5 && 0;",
+        "options": [
+            "true",
+            "false",
+            "0",
+            "1"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "What is the output of: cout << !true;",
+        "options": [
+            "false",
+            "true",
+            "0",
+            "1"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the output of: cout << 5 && 3;",
+        "options": [
+            "7",
+            "15",
+            "3",
+            "None"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the output of: cout << 5 & 3;",
+        "options": [
+            "1",
+            "3",
+            "5",
+            "0"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the output of: int x = 5; cout << ++x;",
+        "options": [
+            "5",
+            "6",
+            "4",
+            "None"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the output of: int x = 5; cout << x++;",
+        "options": [
+            "5",
+            "6",
+            "4",
+            "None"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the output of: for(int i = 0; i < 3; i++) cout << i;",
+        "options": [
+            "123",
+            "012",
+            "345",
+            "None"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the output of: cout << 1 + 2 + 3 + 4 + 5;",
+        "options": [
+            "10",
+            "12",
+            "15",
+            "20"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "What is the output of: cout << sizeof(int);",
+        "options": [
+            "2",
+            "4",
+            "8",
+            "Depends on system"
+        ],
+        "correctOption": 4
+    },
+    {
+        "question": "What is the output of: cout << (true && false);",
+        "options": [
+            "true",
+            "false",
+            "1",
+            "0"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the output of: cout << (true || false);",
+        "options": [
+            "true",
+            "false",
+            "1",
+            "0"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "What is the output of: cout << (5 > 2) ? \"Yes\" : \"No\";",
+        "options": [
+            "Yes",
+            "No",
+            "Error",
+            "None"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the output of: int a = 3; cout << a * a;",
+        "options": [
+            "3",
+            "6",
+            "9",
+            "None"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "What is the output of: cout << \"C\" + \"++\";",
+        "options": [
+            "C++",
+            "Error",
+            "Concatenation not allowed",
+            "None"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the output of: cout << \"5\" - \"2\";",
+        "options": [
+            "Error",
+            "3",
+            "5",
+            "2"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the output of: cout << 5 << \" + \" << 2;",
+        "options": [
+            "5+2",
+            "5 + 2",
+            "Error",
+            "None"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the output of: int x = 5, y = 10; cout << x + y;",
+        "options": [
+            "5",
+            "10",
+            "15",
+            "None"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "What is the output of: int x = 5; x += 10; cout << x;",
+        "options": [
+            "5",
+            "10",
+            "15",
+            "None"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "What is the output of: int x = 10; cout << x / 2;",
+        "options": [
+            "2",
+            "5",
+            "10",
+            "None"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the output of: int x = 3; cout << x * x * x;",
+        "options": [
+            "9",
+            "27",
+            "81",
+            "None"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the output of: cout << (5 < 2);",
+        "options": [
+            "true",
+            "false",
+            "0",
+            "1"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "What is the output of: cout << \"Welcome\\nTo\\nC++\";",
+        "options": [
+            "Welcome To C++",
+            "WelcomeToC++",
+            "Welcome (in multiple lines)",
+            "None"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "What is the output of: cout << (5 >= 5);",
+        "options": [
+            "true",
+            "false",
+            "1",
+            "0"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "What is the output of: int x = 10; cout << x / 3;",
+        "options": [
+            "3",
+            "3.33",
+            "Error",
+            "None"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the output of: cout << (5 << 1);?",
+        "options": [
+            "10",
+            "15",
+            "5",
+            "None"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the output of: cout << (10 >> 1);?",
+        "options": [
+            "5",
+            "15",
+            "2",
+            "None"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the output of: int x = 5; cout << ~x;?",
+        "options": [
+            "5",
+            "-5",
+            "-6",
+            "None"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "What is the output of: cout << 'a' + 1;?",
+        "options": [
+            "b",
+            "97",
+            "98",
+            "None"
+        ],
+        "correctOption": 3
+    },
+    {
+        "question": "What is the output of: cout << 5 > 2 ? \"True\" : \"False\";?",
+        "options": [
+            "True",
+            "False",
+            "Error",
+            "None"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the output of: cout << \"Hello\"[0];?",
+        "options": [
+            "H",
+            "e",
+            "l",
+            "o"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the output of: cout << \"Hello\"[4];?",
+        "options": [
+            "H",
+            "o",
+            "l",
+            "Error"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the output of: cout << \"Hello\".length();?",
+        "options": [
+            "Error",
+            "5",
+            "4",
+            "None"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the output of: int arr[] = {1, 2, 3}; cout << arr[1];?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "Error"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the output of: cout << \"10\" - '0';?",
+        "options": [
+            "10",
+            "1",
+            "0",
+            "Error"
+        ],
+        "correctOption": 4
+    },
+    {
+        "question": "What is the output of: int a = 5; a = a * a; cout << a;?",
+        "options": [
+            "5",
+            "25",
+            "10",
+            "None"
+        ],
+        "correctOption": 2
+    },
+    {
+        "question": "What is the output of: int a = 1; a += 2 * 3; cout << a;?",
+        "options": [
+            "7",
+            "5",
+            "6",
+            "None"
+        ],
+        "correctOption": 1
+    },
+    {
+        "question": "What is the output of: cout << pow(2, 3);?",
+        "options": [
+            "8",
+            "6",
+            "4",
+            "Error"
+        ],
+        "correctOption": 1
+    }
+]
